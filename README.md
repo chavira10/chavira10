@@ -30,6 +30,32 @@ A pesar de ser estudiante , me esfuerzo y me enfoco en aprender nuevos conocimie
 |Unity           |`"basico"`                     |
 
 
+
+
+## Mi horario de septimo semestre
+
+|       | Lunes                            | Martes                           | Miercoles                        | Jueves                           | Viernes                          |
+|-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| 14:00 | Inteligencia Artificial          | Inteligencia Artificial          | Inteligencia Artificial          | Inteligencia Artificial          |                                  |
+| 15:00 | Analisis Avanzado de Software    | Analisis Avanzado de Software    | Analisis Avanzado de Software    | Analisis Avanzado de Software    | Analisis Avanzado de Software    |
+| 16:00 | Arquitectura de Computadoras     | Arquitectura de Computadoras     | Arquitectura de Computadoras     | Arquitectura de Computadoras     | Arquitectura de Computadoras     |
+| 17:00 | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Gestion de Proyectos de Software |
+| 18:00 | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos de Software |
+| 19:00 | Administracion de redes          | Administracion de redes          | Administracion de redes          | Administracion de redes          |                                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **chavira10/chavira10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
