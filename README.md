@@ -25,9 +25,9 @@ A pesar de ser estudiante , me esfuerzo y me enfoco en aprender nuevos conocimie
 
 |Herramientas    |Nivel de habilidad             |
 |----------------|-------------------------------|
-|Blender         |`"basico"`                     |
-|Krita           |`"basico"`                     |
-|Unity           |`"basico"`                     |
+|Blender         |`basico`                     |
+|Krita           |`basico`                     |
+|Unity           |`basico`                     |
 
 
 
